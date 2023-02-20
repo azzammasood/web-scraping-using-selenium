@@ -8,3 +8,5 @@ In this project, Selenium is used with Chrome as the WebDriver to perform data s
 2. Searching on Google's searchbox through automation.
 3. Searching on Wikipedia's searchbox through automation. 
 4. Scraping product information from Amazon.
+
+![image](https://user-images.githubusercontent.com/98682258/220034359-a248cbdf-d799-495c-bd35-9312daa39809.png)
